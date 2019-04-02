@@ -2,14 +2,16 @@ PART 1
 Aim of article is to get you started and give you direction towards a learning path in software developmennt. At the end of this series, readers should have a basic understanding of web development and the path to take in learning.
 
 What is software development
-How are they built
-What are they built with Code, Database, IDE
-Software/application will be used interchangeably
-
 Types of Software/application
 Web - Design, Front end, Backend
 Mobile
 Desktop
+
+How are they built
+What are they built with Code, Database, IDE
+Software/application will be used interchangeably
+
+
 
 
 Intoduce programming language, database , client, ide
@@ -26,6 +28,8 @@ Part3 covers explanation for(Native , Hybrid) Java, Android , Swift , Ionic, Rea
 Part4 tips, advice etc - Stackoverflow, Github , Learning community(forloop, coddecamp etc), blogs, twitter, continous learning etc
 
 
+
+
 A more detailed explanation for web application development will be in Part2, and mobile application development in part3.
 
 
@@ -35,18 +39,8 @@ Mobile development introductory explanation introduces platforms(ios, android) a
 
 
 
-How to learn web develo
 
 Tips and advice:
-Expect to make misatake as its common when starting
-Most terms wont be clear at first, try to go through them slowly until you understand.
-If you dont understand a term/ concept after trying skip it and move to the next..Chnace are you will understand it after you come back to it some other time
-Have a note
-Be consistent
-Join Online study groups: Foorloops etc
-Always search and learn about new terms when stucked
-Dont try to learn different languages at once when starting.
-
 
 
 

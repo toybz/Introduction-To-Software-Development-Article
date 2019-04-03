@@ -40,7 +40,21 @@ Mobile development introductory explanation introduces platforms(ios, android) a
 
 
 
-Tips and advice:
+will give us an overview of what software development is and be a good starting point for future learning
+
+Do you need a computer science degree to be a programmer : No ..explain
+
+Do you need to know a lot of maths. No
+
+Its mostly logic and set. If , else, union etc
+
+
+
+This tutorial is not an overhaul introduction but serves as a quick quick and direction towards learning software development
+
+
+
+
 
 
 

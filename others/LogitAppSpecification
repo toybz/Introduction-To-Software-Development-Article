@@ -1,0 +1,94 @@
+App Objective
+The Logit app will enable users to make payment for transport trip and make e-payment for other utility services.
+
+Development aim
+The app Development will be considered as successfull, when the app is published on the apple app store and  and android playstore, with the agreed  features and  functionalities working intact.
+
+User Flow
+A brief overview of user flow:
+* User downloads app from store
+* User registers and confirms registration  via app
+* A virtual card is generated for user
+* User funds virtual card from thier bank account or card
+* User makes payment for trip by scanning QR code 
+* User transfers money from virtual card to friend
+* User buys airtime from app
+
+App features :
+
+The app features are divided into 4 Modules
+
+User Management
+User Registration
+Login/Logout
+User settings
+Reset password
+User profile
+
+Card Management
+Card generation
+Card funding
+Card freezing
+Card balance
+
+Transaction Management
+Payment for trip with/without Qrcode
+Payment for utilities(airtime, data)Sending funds to other account
+Transactions history
+
+Notifications
+Push message when a transaction is succcesful
+Push message when there is an annoucement from admin
+
+
+App pages:
+
+App Splash screen page
+App Onboarding page 
+User Registration page
+Confirm Registration page
+Login page
+Reset password page
+
+Dashboard page
+
+Card details page
+Card funding page
+
+Payment for trip with Qrcode pages
+payment for airtime pages
+payment for data pages
+sending funds to other account pages
+history page
+
+List Annoucement/Notifications page
+Notification detail page
+
+
+Requirment
+
+* The logit api endpoint and documentation to power all listed features
+
+* Fltterwave  api endpoint and documentation to power all listed features
+
+* Logit Logo
+
+
+
+
+
+Technologies to be used in Development
+
+Html
+Css
+Javascript
+Angular
+Ionic
+Cordova
+
+App will be developed using hybrid Development Technologies to enable one codebase for app.
+
+Project Estimated Timeline And Cost
+
+
+On conpletion of project app, Development team will assist Logit team in publishing app to app stores.Logit team will make the registrations to app stores

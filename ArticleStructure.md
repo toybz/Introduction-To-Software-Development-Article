@@ -53,6 +53,42 @@ Its mostly logic and set. If , else, union etc
 This tutorial is not an overhaul introduction but serves as a quick quick and direction towards learning software development
 
 
+Hello Samuel, thank you for having me yesterday. 
+
+App will be android and ios and  published on android playstore and apple app store. 
+
+We agreed on using an hybrid development pattern to enable a single code base and better extensibility of app later on.
+
+App will have the pages and features listed below:
+
+User Management
+* I signup page, users enter thier details and place for work
+
+* I login page for logged out user to login back to app
+
+* A forget password page to retrieve forgotten password
+
+Virtual Card:
+* After signup is completed, the system will generate a virtual card for the user.Card will have the user  details and card details on it
+
+* A page where users can fund card
+
+* A page where users can transfer to other accounts from  card
+
+Dashboard Page
+
+Payment
+
+* Users can scan barcode to pay for services
+
+* Users can buy airtime via app
+
+* Users can pay for utility bills
+
+
+History
+A page to show the history of all transactions and thier status 
+
 
 
 

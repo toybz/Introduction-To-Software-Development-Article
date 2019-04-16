@@ -1,0 +1,18 @@
+Please share with us a technical challenge you've encountered in the last two years. What it was, how you solved it, and what you learned. Technical details encouraged! *
+
+
+
+One of the interesting technical challenge I worked on  recently was on  improving  the Performance of a  website.
+
+To increase the site performance, I 
+
+1- worked on decreasing the site load time by loading only the neccessary uglified css  and js files for the first page, then fetching the other assets files in the background to ensure fast load time for inner pages.
+
+2-  cached the static and unchanging assets using service worker.
+
+3-  decrease the js file size by ditching some of the libraries used in building the project by rewriting the functions the used from external libraries
+
+
+
+
+I am using this meduim to apply for the post of a junior web developer at SumUp, I have an using the 

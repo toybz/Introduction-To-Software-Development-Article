@@ -72,3 +72,63 @@ Tutorial list after explaning HTML & Css , Bootstrap
 Explain diff between static and dynamic in JS
 
 Show screenshot for downloading and installing or for all process
+
+What is Backend Development
+Difference between FE and BE
+What Languages are used in development
+Frameworks
+Database
+Server
+Example of a Backend scenerio
+
+Tutorials
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////
+
+Part 3: Mobile Application Development
+
+Introduction: Whats is mobile app development
+
+Explain about mobile os and how they differ
+
+Explain Native and Hybrid Development
+
+Pros and Cons
+
+How To Develop for Android : Java , Kotlin , XML. Recommend Kotlin over Java
+
+Tutorials for Android deve:
+
+Google documentation
+Youtube Tutorial
+
+How to develop for ios :
+Swift , Objective C
+
+Tutorials for ios deve:
+Apple doc
+Youtube video
+
+
+Hybrid Libraries
+React Native
+-React docs,
+-Youtube series
+
+Ionic
+-Ionic docs,
+-Youtube series
+
+Cordova
+-Corodva docs,
+-Youtube series
+
+Xamarin
+
+
+
+ Mobile
+ 
+ Mobile Operating System:
+ Operating System(OS) is the base platform that the mobile  apps run on. There are different  mobile OS with the popular ones being Android and IOS.

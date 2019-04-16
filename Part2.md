@@ -156,14 +156,11 @@ Free Ebooks
 Design Frameworks : 
  Design framworks ....
  
+ Web desig frameworks are bundles of style codes that have been pre built to   make web design development easier and faster.They  come with lots of pre-styled classes   They are a tons of them, the  most popular ones are Bootstrap , Foundation and Material.
+After learning HTML and Css, ensure you go through any of these tutorials to learn about these design frameworks.
+For Beginers, I will advice you start with Bootstrap, and get comfortable with it before attempting to learn other web design framworks.
 
- Examples of design framework are Bootstrap , Foundation , Material.
 
- Using design framworks doesnt mean you wont be writing css, it will only minimise the amount of code you write. 
-
-
-Bootsrap is a styling framework that help you design web pages faster, it comes with lots of pre-styled classes ...
- 
  
  Tutorials Links for Bootstrap:
 
@@ -177,8 +174,56 @@ Bootsrap is a styling framework that help you design web pages faster, it comes 
 
      ****************** *********
 
+Intro to Frontend Development
+**insert gif of FE button interactions or any of the cool interactions from muzli blog**
+
+Front end (web) development deals with building the logic and  interactions of the web page. Imagine on the web page we built above, we add a contact form  and  a button that when clicked, will tell a user that the form has been submitted.For task like this, we use Javascript to build these logic and  interactions.
+
+Javascript not to be confused with Java (which is a seperate language and doesnt relate to Javascript in any way)
+is a programming language used in developing web applications.In recent years, it has grown to become the most popular language and can now be used to build mobile and desktop applications.
+
+To describe how Javascript works, lets add an effect to the form button of the web page we built earlie. 
+ Copy the code below and paste in the head tag of the index.html file, save and reload page.
+ **image of where to place script tag in head**
+ Fill the form and click on the submit button, if all works well, you should see an alert telling you, Contact Form Submitted.Thank You.
+
+Explanation. 
+In our button we added the onclick attribute to tell the browser what action to perform when the button is clicked.
+We define the action i.e function in our script tag.
+In the function we call the Javascript alert method and entered the Texxt we want it to display.
+ The link below will navigate you to tutorials that will guide you through learning and understanding Javascript.
+
+ Tutorials for Javascript
+
+ 1 - Freecodecamp : They have an intercative page where you enter what you learn and test.Once you register you can start learning
+(Highly recommende)
+
+ 2- W3c  js tutorial 
+
+ 3- Mozilla dev network
+
+ 3- Youtube Videos
+
+Free Ebooks
+ ... Add more
 
 
+Intro to Backend Developmment
+ **insert image of server and db**
 
+ Backend development deals with building the logic that saves,  process and return the  data from the server when needed.When you used a website like facebook and uodate your status, for your friends to see the status, it has to be saved on a server.The development of this process that enables people to interact remotely, make online payment etc is Backend Development.
 
- 
+Difference between FE and BE
+Backend development is different from Front end development that we talked about earlier.
+While frontend deals with what the users can see and interact with in thier browser, backend developmment deals with saving and processing the  data the users entered from the website/app.
+
+How Backend apps are developed.
+Backend apps can be developed with different programming languages like 
+Javascript , PHP, Python , Ruby, C# etc.
+ They can also be developed with  frameworks like Express, Laravel, ASP .NET MVC etc, to make development rapid and structured. 
+ The data is stored in a database.
+ Understanding the programming language, database  language and how the server works is key in backend development.
+
+Tutorials for Backend developmment
+
+-

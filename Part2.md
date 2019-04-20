@@ -1,25 +1,25 @@
+Intro To Web Application Development :
 **insert banner**
 
-This post is part 2 of the series Intro to software development, click here if you will like to read the part 1
+*italic*This post is part 2 of the series Intro to software development, click here if you will like to read the part 1 *italic*
 
 
-Web applications  are the software powering the websites we visits and the  backend for  most of the mobile applications we use.
-When you visit a url eg facebook.com the  content the contents that get displayed , the friends suggestion etc are all powered by a web applications , same goes for all the websites we visit daily.
+Web applications  are the software powering the websites we visit and the  backend for  most of the mobile applications we use.
+When you visit a url eg facebook.com the   contents that get displayed , the friends suggestion etc are all powered by a web applications , same goes for all the websites we visit daily.
 Therefore, Web application development is the development of apps that can be accessed via a url
 (a web url is a web address assigned to a particular website, to make it accesible to other computers).In this post I will introduce the technologies and  languages used in building web applications and provide links to tutorials to get you started on your journey of becoming a web developer.
 
 In the early days of the internet, web apps are buit using basic html and css.
 **picture of old website**
-.These days web apps have become very robust, handling lots of interaction with lots of featurers and capabilities like online payment, hotel booking, online exams and voting etc. Web apps have become the most popular kind of applications because its easy to access and platform or os independent.
+Nowadays web apps have become very robust, handling lots of interaction with lots of featurers and capabilities like online payment, hotel booking, online exams and voting etc. Web apps have become the most popular kind of applications because its easy to access and platform or os independent.
 **picture of new  website**
 
-A lot of process goes into making a standard web applications from the planiing phase, to the design phase and the development phase. Web applications are split into 3 different categories :
-1-web design,
+A lot of process goes into making a standard web applications from the planiing phase, to the design phase and the development phase.Due to these process  web applications are split into 3 different categories :
+1-web design
 2-front end (web) development 
 3-backend (web) development
 
-You  focus on working on one of these categories as a web designer, front end developer, backend developer.
-Its good to have an understanding of the whole process though as it give you an advantage  and let you aware of what is possible or not when building large scale apps.
+You can focus on working on one of these categories as a web designer, front end developer or a  backend developer. Irrespective of which category you choosed to specialise in  its good to have an understanding of the whole process though as it gives you an advantage  when working in a team and knowledge of whats  possible or not when building large scale apps.
 
 We will be going through these categories one after the other.
 
@@ -28,7 +28,6 @@ This  post  is structured into
 Intro To web design **add link**
  HTMl
  CSS
- Explain responsiveness
  Tutorial Links for Web design 
 
 Intro to Design Framworks **add link**
@@ -37,7 +36,7 @@ Intro to Design Framworks **add link**
 Intro to Frontend Development **add link**
  Javascript
  Tutorial for JS
-FE framworks
+ FE framworks
  React explanation and tutorials link
  Angualar explanation and tutorials link
  Vue explanation and tutorials link
@@ -49,9 +48,9 @@ Into to Backend explanation **add link**
 
 
 
-Web Design :
+Intro to Web Design :
 
-Web design deals with building and beutifying the content of the web pages  that gets displayed in the browser.It deals with the aesthetic of the web page.
+Web design deals with building and beutifying the content of the web pages ,  that gets displayed in the browser.It deals with the aesthetic of the web page.
 
 Web page are built using HTML for structuring the blocks of content and CSS for placement and aesthetic. HTML and CSS are good entry points for anyone  looking to  get into web developmment as its easy to learn and building projects with it is fast once you understand how to use them both.
 
@@ -68,12 +67,14 @@ All html files have .html as thier extension
 
 
  Lets do a quick practical, so you can see how HTML is being used.
- Create a folder on your desktop called web_development, we will be creating all  projects file  in this folder.
+ Create a folder on your desktop called web_development, we will be using this folder for our demo proect.
 
 **
 If you have been following from part 1, we discuuseed about IDE, for developing apps
 **show screen shot of part1 explainning what IDE is**
-. We will be  downloading and using an  IDE now. head over to vscode.com, then download the version for you pc. When download get completed, click on the downloaded file to install it.
+ We will be  downloading and using an  IDE now.
+ 
+  Head over to vscode.com, then download the version for you pc. When download get completed, double click on the downloaded file to install it.
 
 **
 

@@ -1,25 +1,28 @@
  Intro To Mobile Application Development :
- 
- Mobile applications:
+ **insert banner**
+
+
+*italic*This post is part 3 of the series Intro to software development, click here if you will like to read the part 1 *italic*
+
 
  Mobile applications are the applications that run on mobile phones and tablet.They required to be installed on mobile devices  before they can be used.
 
- Mobile apps have an advantage over web apps as they are able to access the device features like WIFI, Keyboard , Bluetooth etc.This gives developers more control and capabilities to add features using these access. There are approximately 10Billion mobile apps on the ios and playstore combine and many more  are still being developed as we speak.Mobile apps are dependent on the operating system to work, meaning a mobile apps will only run on the operating system it is built for.
+ Mobile apps have an advantage over web apps as they are able to access the device features like WIFI, Keyboard , Bluetooth etc.This gives developers more control and capabilities to add features using these access. There are approximately 10Billion**check for correct value** mobile apps on the ios and playstore combine and many more  are still being developed as of this moment.Mobile apps are dependent on the operating system to work, meaning a mobile app will only run on the operating system it is built for.
 
 What is an operating System:
- An operating system is  the low-level software that supports a computer's basic functions, such as scheduling tasks and controlling peripherals.
+ An operating system is  the low-level software that supports a computer's basic functions, such as delicating  tasks and controlling the device hardware.
  It is also the link between the apps and the hardware and device features.
  If an app wants to open the camera, it will request  for the camera to be opened using the code provided by the os, the os will accept this request and
  enable the camera hardware.
- A mobile operating system is the OS running on a mobile device. Majorly there are two mobile os: Android by Google and IOS by apple.
+ A mobile operating system is the OS running on a mobile device. There are quitea few mobile os, with Android by Google and IOS by apple being the most popular.
 
 
 
 How to get started with mobile app developemnet:
 
-Developing mobile apps is quite different from developing web apps because mobile apps depends on the operating system of the host device to work therefore  the development tools and langauge used is developing for android is different from that used for ios.Android apps are developed with the Java or Kotlin programming language, while IOS apps are developed uisng Swift(Recommend) or Objective C(Old).
-This means to publish a particular  app on the andrid playstore or apple appstore, you need to develop the app on both platforms.This development method is refered to as Native application development.
-Due to this rigidity, framworks  have been built to enable using on codebase to create apps for both os as agaianst writing different codes for them. This developmment method is refered to as Hybrid development method.
+Developing mobile apps is quite different from developing web apps because mobile apps depends on the operating system of the host device to work therefore  the development tools and langauge used in developing for android is different from that used for ios.Android apps are developed with the Java or Kotlin programming language, while IOS apps are developed uisng Swift(Recommended) or Objective C.
+This means to publish a particular  app on the andrid playstore or apple appstore, you need to develop the app for  both platforms.This development method is refered to as Native application development.
+Due to this rigidity, framworks  have been built to enable using one codebase to create apps for both os as agaianst writing different codes for them. This developmment method is refered to as Hybrid development method.
 
 Hybrid Vs Native Mobile applications:
 
@@ -31,7 +34,7 @@ It's tedios to learn everything at once so for starters its advisable to pick on
 
  Android app development:
 
-Native android apps are developed using Java or Kotlin programming language.They are developed using Android Studio IDE and are  published to the android playstore.
+Native android apps are developed using Java or Kotlin programming language.They are developed using Android Studio IDE and are  published and distributed on  the google  playstore .
 
 Tutorials for Android Development:
 
@@ -45,9 +48,11 @@ Other Resources:
 
 Groups:
 
+
+
 IOS app development:
 
-Native ios apps are developed using Swift programming language.Formerly the recommende language is Objective C, and there are still apps built with objective C on the app store, but the recommend language is Swift.They are developed using Xcode IDE and can only be developed on a mac pc.They are  published to the apple appstore.
+Native ios apps are developed using Swift programming language.Formerly the recommende language is Objective C, and there are still apps built with objective C on the app store, but the recommend language now is Swift.They are developed using Xcode IDE and can only be developed on a mac pc.They are  published and didtributed on the apple appstore .
 
 Tutorials for IOS Development:
 
@@ -61,9 +66,11 @@ Other Resources:
 
 Groups:
 
+
+
 Hybrid app development:
 
-Hybrid apps are developed using an Hybrid framework and its recommended programming language. While you dont have to use a native 
+Hybrid apps are developed using an Hybrid framework and its recommended programming language.    While you dont have to use the  native langauge  when developing hybrid apps you still need to have the native tools like andorid studio or xcode to be able to compile and publish them.The links below will aid your learning process.
 
 Tutorials for IOS Development:
 
